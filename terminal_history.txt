@@ -30,3 +30,15 @@
    30  git commit -m"Added save_qualifying_loans function"
    31  git push
    32  history 50 > terminal_history.txt
+   33  git status
+   34  git add README.md
+   35  git commit -m"line breaks"
+   36  git push
+   37  git pull origin main
+   38  git status
+   39  git status
+   40  git add README.md
+   41  git commit -m"grammatical corrections"
+   42  git push
+   43  terminal history 50 > terminal_history.txt
+   44  history 50 > terminal_history.txt
