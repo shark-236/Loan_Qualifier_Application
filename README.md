@@ -25,7 +25,7 @@ conda install questionary
 
 ## Usage
 
-To use the application, open Module_2_Challenge.ipynb in your jupyter lab. Ensure you have access to the data folder, utils, and filters from the repository. A 'save' function has been added to sasve the qualifying loans. User will be prompted a Yes/No to save the qualifying loans. If Yes (i.e. True), a CSV file will be saved. 
+To use the application, open Module_2_Challenge.ipynb in your jupyter lab. Ensure you have access to the data folder, utils, and filters from the repository. A 'save' function has been added to save the qualifying loans. User will be prompted a Yes/No to save the qualifying loans. If Yes (i.e. True), a CSV file will be saved. 
 
 ---
 
