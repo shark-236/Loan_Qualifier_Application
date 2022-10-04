@@ -1,0 +1,32 @@
+    1  pwd
+    2  git status
+    3  cd /Module-2-Challenge-
+    4  cd /c/Users/School/Module-2-Challenge-
+    5  git status
+    6  git add README.md
+    7  git status
+    8  git status
+    9  git add README.md
+   10  git status
+   11  git push
+   12  git status
+   13  git push
+   14  git push
+   15  git commit -m "Confirming connection"
+   16  git status
+   17  git push
+   18  git status
+   19  python --version
+   20  git status
+   21  git commit -m "README edits"
+   22  git add README.md
+   23  git commit -m "README edits"
+   24  git status
+   25  git commit -m "README edits"
+   26  git push
+   27  git status
+   28  git status
+   29  git add README.md
+   30  git commit -m"Added save_qualifying_loans function"
+   31  git push
+   32  history 50 > terminal_history.txt
