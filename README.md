@@ -18,8 +18,8 @@ This program uses Python Version 3.9.12. This program utilizes Python Fire and P
 
 Before running the program please run the following code on your local device:
 
-conda install fire
-conda install questionary
+conda install fire  
+conda install questionary  
 
 ---
 
